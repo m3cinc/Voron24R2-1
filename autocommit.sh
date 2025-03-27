@@ -49,7 +49,7 @@ moonraker-timelapse folder=~/moonraker-timelapse
 klipper-led_effect folder=~/klipper-led_effect
 
 ### klipper_auto_speed folder
-klipper_auto_speed_folder=~/kklipper_auto_speed
+klipper_auto_speed_folder=~/klipper_auto_speed
 
 ### crowsnest folder
 crowsnest folder=~/crowsnest
