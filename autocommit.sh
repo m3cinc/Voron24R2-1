@@ -37,16 +37,16 @@ klippain_shaketune_folder=~/klippain_shaketune
 klipper_tmc_autotune_folder=~/klipper_tmc_autotune
 
 ### Happy_Hare folder
-Happy-Hare folder=~/Happy-Hare
+Happy-Hare folder=~/Happy&#45Hare
 
 ### KlipperScreen folder
 KlipperScreen_folder=~/KlipperScreen
 
 ### moonraker-timelapse folder
-moonraker-timelapse folder=~/moonraker-timelapse
+moonraker-timelapse folder=~/moonraker&#45timelapse
 
 ### klipper-led_effect folder
-klipper-led_effect folder=~/klipper-led_effect
+klipper-led_effect folder=~/klipper&#45led_effect
 
 ### klipper_auto_speed folder
 klipper_auto_speed_folder=~/klipper_auto_speed
