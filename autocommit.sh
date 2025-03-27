@@ -37,10 +37,10 @@ klippain_shaketune_folder=~/klippain_shaketune
 klipper_tmc_autotune_folder=~/klipper_tmc_autotune
 
 ### Happy_Hare folder
-happy-hare folder=~/Happy-Hare
+Happy-Hare folder=~/Happy-Hare
 
 ### KlipperScreen folder
-klipperscreen_folder=~/KlipperScreen
+KlipperScreen_folder=~/KlipperScreen
 
 ### moonraker-timelapse folder
 moonraker-timelapse folder=~/moonraker-timelapse
