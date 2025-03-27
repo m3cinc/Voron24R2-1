@@ -27,6 +27,21 @@ moonraker_folder=~/moonraker
 ### Path to your Mainsail folder, by default that is '~/mainsail'
 mainsail_folder=~/mainsail
 
+### Klippain folder
+klippain_folder=~/klippain_config
+
+### Klippain_shaketune folder
+klippain_shaketune_folder=~/klippain_shaketune
+
+##  klipper_tmc_autotune folder
+klipper_tmc_autotune_folder=~/klipper_tmc_autotune
+
+## Happy_Hare folder
+happy_hare folder=~/Happy_Hare
+
+## KlipperScreen folder
+klipperscreen_folder=~/KlipperScreen
+
 ### Path to your Fluidd folder, by default that is '~/fluidd'
 #fluidd_folder=~/fluidd
 
