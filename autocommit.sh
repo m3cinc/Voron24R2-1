@@ -33,14 +33,26 @@ klippain_folder=~/klippain_config
 ### Klippain_shaketune folder
 klippain_shaketune_folder=~/klippain_shaketune
 
-##  klipper_tmc_autotune folder
+### klipper_tmc_autotune folder
 klipper_tmc_autotune_folder=~/klipper_tmc_autotune
 
-## Happy_Hare folder
-happy_hare folder=~/Happy_Hare
+### Happy_Hare folder
+happy-hare folder=~/Happy-Hare
 
-## KlipperScreen folder
+### KlipperScreen folder
 klipperscreen_folder=~/KlipperScreen
+
+### moonraker-timelapse folder
+moonraker-timelapse folder=~/moonraker-timelapse
+
+### klipper-led_effect folder
+klipper-led_effect folder=~/klipper-led_effect
+
+### klipper_auto_speed folder
+klipper_auto_speed_folder=~/kklipper_auto_speed
+
+### crowsnest folder
+crowsnest folder=~/crowsnest
 
 ### Path to your Fluidd folder, by default that is '~/fluidd'
 #fluidd_folder=~/fluidd
